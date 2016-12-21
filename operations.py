@@ -6,6 +6,6 @@ Created on Wed Dec 21 17:47:48 2016
 """
 
 def operations(a,b):
-    print(a+b)
+    print(a*b)
     
 operations(1,2)
